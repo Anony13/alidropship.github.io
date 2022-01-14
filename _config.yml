@@ -7,9 +7,9 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: anony13的博客
+name: Alidropship中文教程
 description: 
-  一个假程序员的博客，FAKE CODER。
+  觉得网页太慢，或有时无法访问，可以加微信jiu223311,备注"想要alidropship教程",获取文档。
   # </br><a href="https://www.baidu.com" target="_blank">测试网页跳转</a>
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
@@ -28,10 +28,10 @@ baseurl:
 # 注意，如果图片名字带有中文，需要URL编码才行，可以在github上通过网页打开图片后，直接复制地址，
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
 # avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
-avatar: https://raw.githubusercontent.com/Anony13/anony13.github.io/master/images/%E8%80%81%E9%9F%AD%E9%99%88logo300.png
+avatar: https://raw.githubusercontent.com/Anony13/alidropship.github.io/master/images/alidropship-logo-300.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/Anony13/anony13.github.io/master/images/%E8%80%81%E9%9F%AD%E9%99%88logo64.png
+favicon: https://raw.githubusercontent.com/Anony13/alidropship.github.io/master/images/alidropship-logo-64.png
 
 
 
@@ -60,7 +60,7 @@ footer-links:
   email: tykingchen@gmail.com #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: Anony13 #https://github.com/<>
+  github: #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
@@ -71,7 +71,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 Anony13
+footer-text: Copyright (c) 2019 Alidropship Guid
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
